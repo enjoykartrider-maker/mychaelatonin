@@ -60,7 +60,7 @@ noBtn.addEventListener("mouseover", () => {
 // YES is clicked
 
 yesBtn.addEventListener("click", () => {
-    title.textContent = "내가 세상에서 가장 좋아하는 장도 바로 안나 옆이야. 해피 발렌타인 데이 :)";
+    title.textContent = "내가 세상에서 가장 좋아하는 장도 바로 안나 옆이야. 해피 발렌타인 데이";
 
     catImg.src = "cat_dance.gif";
 
